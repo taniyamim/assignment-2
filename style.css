@@ -368,6 +368,10 @@ color: #727272;
     margin-bottom: 130px;
 }
 
+.sponsor-2-img img{
+    filter: grayscale(100%);
+}
+
 /* --------------------Footer------------------------ */
 
 
@@ -515,5 +519,7 @@ color: #727272;
         padding-right: 10px;
         padding-left: 35px;
     }
+
+
     
 }
